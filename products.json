@@ -1,0 +1,115 @@
+[
+  {
+    "id": 1,
+    "ribbon": "Premium Quality",
+    "name": "Activa ORNET HIGH SPEED 850 RPM 4 Blades 600MM Anti-Rush Fan",
+    "brand": "Activa",
+    "price": 40000,
+    "image": "https://m.media-amazon.com/images/I/61Nn99Fd73L._SL1500_.jpg",
+    "discount": "70% OFF",
+    "rating": "4",
+    "verdict": "Exceptional",
+    "link": "https://www.amazon.com",
+    "specs": [
+      "THis is the First Feater",
+      "THis is the Second Feater",
+      "THis is the Third Feater",
+      "THis is the Fourth Feater",
+      "THis is the Fifth Fe"
+    ]
+  },
+  {
+    "id": 2,
+    "ribbon": "Best Seller",
+    "name": "Dyson Cool AM07 Air Multiplier Tower Fan",
+    "brand": "Dyson",
+    "price": 35000,
+    "image": "https://m.media-amazon.com/images/I/61Nn99Fd73L._SL1500_.jpg",
+    "discount": "10% OFF",
+    "rating": "9.5",
+    "verdict": "Excellent",
+    "link": "https://www.amazon.com",
+    "specs": [
+      "THis is the Fifdsfdsfrst Feater",
+      "THis is the Second Feater",
+      "THis is the Third Feater",
+      "THis is the Fourth Feater",
+      "THis is the Fifth Fe"
+    ]
+  },
+  {
+    "id": 3,
+    "ribbon": "Great Value",
+    "name": "Honeywell QuietSet Whole Room Tower Fan",
+    "brand": "Honeywell",
+    "image": "https://m.media-amazon.com/images/I/61Nn99Fd73L._SL1500_.jpg",
+    "price": 25000,
+    "discount": "20% OFF",
+    "rating": "9.2",
+    "verdict": "Very Good",
+    "link": "https://www.amazon.com",
+    "specs": [
+      "THis is the First Feater",
+      "THis is the Second Feater",
+      "THis is the Third Feater",
+      "THis is the Fourth Feater",
+      "THis is the Fifth Fe"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Lasko 3300 Wind Machine Air Circulator",
+    "brand": "Lasko",
+    "image": "https://m.media-amazon.com/images/I/61Nn99Fd73L._SL1500_.jpg",
+    "price": 20000,
+    "discount": "15% OFF",
+    "rating": "8.9",
+    "verdict": "Good",
+    "link": "https://www.amazon.com",
+    "specs": [
+      "THis is the First Feater",
+      "THis is the Second Feater",
+      "THis is the Third Feater",
+      "THis is the Fourth Feater",
+      "THis is the Fifth Fe"
+    ]
+  },
+  {
+    "id": 5,
+    "ribbon": "Top Pick",
+    "name": "Vornado 660 Large Whole Room Air Circulator Fan",
+    "brand": "Vornado",
+    "image": "https://m.media-amazon.com/images/I/61Nn99Fd73L._SL1500_.jpg",
+    "price": 30000,
+    "discount": "25% OFF",
+    "rating": "9.4",
+    "verdict": "Excellent",
+    "link": "https://www.amazon.com",
+    "specs": [
+      "THis is the First Feater",
+      "THis is the Second Feater",
+      "THis is the Third Feater",
+      "THis is the Fourth Feater",
+      "THis is the Fifth Fe"
+    ]
+  },
+  {
+    "id": 6,
+    "ribbon": "Editor's Choice",
+    "name": "Rowenta VU5670 Turbo Silence Oscillating Fan",
+    "brand": "Rowenta",
+    "image": "https://m.media-amazon.com/images/I/61Nn99Fd73L._SL1500_.jpg",
+    "price": 45000,
+    "discount": "30% OFF",
+    "rating": "9.6",
+    "verdict": "Outstanding",
+    "link": "https://www.amazon.com",
+    "specs": [
+      "THis is the First Feater",
+      "THis is the Second Feater",
+      "THis is the Third Feater",
+      "THis is the Fourth Feater",
+      "THis is the Fifth Fe"
+    ]
+  }
+]
